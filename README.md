@@ -2,7 +2,7 @@
 
 Mình xây hệ vận hành AI cho doanh nghiệp một người — agent tự làm nội dung, video và website, Founder chỉ duyệt.
 
-[ducpt.com](https://ducpt.com) · [dgmediaholding.com](https://dgmediaholding.com) · [YouTube @ducdg2](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving)
+[ducpt.com](https://ducpt.com) · [YouTube @ducdg2](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving)
 
 ### Sản phẩm
 
