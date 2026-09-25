@@ -1,8 +1,8 @@
-# Xin chào, mình là Đức DG
+# Xin chào, mình là Hoàng Đức (Đức DG)
 
 Mình xây hệ vận hành AI cho doanh nghiệp một người — agent tự làm nội dung, video và website, Founder chỉ duyệt.
 
-[ducpt.com](https://ducpt.com) · [dgmediaholding.com](https://dgmediaholding.com) · [YouTube](https://www.youtube.com/channel/UC6CkCXq2gPH8rIkeyP0rtcQ)
+[ducpt.com](https://ducpt.com) · [dgmediaholding.com](https://dgmediaholding.com) · [YouTube @ducdg2](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving)
 
 ### Sản phẩm
 
