@@ -5,7 +5,7 @@
 Mình xây hệ vận hành AI cho doanh nghiệp một người: agent tự làm nội dung, video và website, Founder chỉ duyệt.
 I build AI agent systems that run a one-person business: content, video, web ops and reporting on autopilot.
 
-[ducpt.com](https://ducpt.com) · [YouTube](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving) · [DG Media Holding](https://dgmediaholding.com)
+[ducpt.com](https://ducpt.com) · [Công cụ AI](https://ducpt.com/cong-cu-ai/) · [Khoá học](https://ducpt.com/khoa-hoc/) · [YouTube](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving)
 
 ### Đang làm gì
 
@@ -13,13 +13,24 @@ I build AI agent systems that run a one-person business: content, video, web ops
 - **AI video pipeline**: kịch bản, voice tiếng Việt, dựng và đăng tự động lên YouTube, Facebook
 - Công cụ desktop cho creator: ghi họp, bóc lời, xử lý ảnh, gõ tiếng Việt bằng giọng nói
 
+### Website
+
+| | |
+|---|---|
+| [**ducpt.com**](https://ducpt.com) | Công cụ AI, automation và sản phẩm số thực chiến. [Công cụ](https://ducpt.com/cong-cu-ai/) · [Khoá học](https://ducpt.com/khoa-hoc/) · [Dịch vụ](https://ducpt.com/dich-vu/) · [Bài viết](https://ducpt.com/bai-viet/) |
+| [**Brain Bot**](https://ducpt.com/brain-bot/) | Bộ não bài học có trích nguồn. |
+| [**newsglobail.com**](https://newsglobail.com) | Tin tức tổng hợp. |
+| [**tecatool.com**](https://tecatool.com) | Công cụ và thủ thuật công nghệ. |
+| [**navyago.com**](https://navyago.com) | Trang nội dung Navy Ago. |
+
 ### Sản phẩm
 
 | | |
 |---|---|
-| [**DG Media Holding**](https://dgmediaholding.com) | Một cửa điều hành cả hệ sinh thái: giao việc, duyệt, số liệu, video, tài chính. |
-| [**Verba Studio**](https://verbar.io) | Ghi lại cuộc họp, bóc lời và dựng video bằng AI. |
-| [**DUCPT**](https://ducpt.com) | Học làm doanh nghiệp một người cùng AI. |
+| [**Verba Studio**](https://ducpt.com/cong-cu-ai/verba-studio/) | Livestream, quay màn hình và bóc lời bằng AI. |
+| [**DG PremoDesk**](https://ducpt.com/cong-cu-ai/dg-premodesk/) | Điều khiển máy tính bằng điện thoại. |
+| [**Pinterest Autopost**](https://ducpt.com/cong-cu-ai/pinterest-autopost/) | Tự đăng Pinterest, kéo traffic về website. |
+| [**File Manager Pro**](https://ducpt.com/cong-cu-ai/file-manager-pro/) | Dọn dẹp, sắp xếp file trên Windows. |
 
 ### Dự án mở
 
@@ -38,4 +49,4 @@ I build AI agent systems that run a one-person business: content, video, web ops
 
 `Claude Code` `MCP` `Python` `TypeScript` `Electron` `Node.js` `FFmpeg` `WordPress` `YouTube API` `Telegram Bot`
 
-<sub>Việt Nam · <a href="https://ducpt.com">Tất cả dự án</a> · <a href="https://dgmediaholding.com">DG Media Holding</a></sub>
+<sub>Việt Nam · <a href="https://ducpt.com">Tất cả dự án</a> · <a href="https://www.youtube.com/@ducdg2">YouTube</a></sub>
