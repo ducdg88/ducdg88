@@ -11,7 +11,7 @@ Mình xây hệ vận hành AI cho doanh nghiệp một người — agent tự 
 | [**DG Media Holding**](https://dgmediaholding.com) | Một cửa điều hành cả hệ sinh thái: giao việc, duyệt, số liệu, video, tài chính. |
 | [**Verba Studio**](https://verbar.io) | Ghi lại cuộc họp, bóc lời và dựng video bằng AI. |
 | [**DUCPT**](https://ducpt.com) | Học làm doanh nghiệp một người cùng AI. |
-| [**Tecatool**](https://tecatool.com) | Chuyện nghề gỗ và máy móc, kể bằng video ngắn. |
+
 
 ### Dự án mở
 
