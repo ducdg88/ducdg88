@@ -5,7 +5,7 @@
 Mình xây hệ vận hành AI cho doanh nghiệp một người: agent tự làm nội dung, video và website, Founder chỉ duyệt.
 I build AI agent systems that run a one-person business: content, video, web ops and reporting on autopilot.
 
-[ducpt.com](https://ducpt.com/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Công cụ AI](https://ducpt.com/cong-cu-ai/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Khoá học](https://ducpt.com/khoa-hoc/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [YouTube](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving)
+[ducpt.com](https://ducpt.com/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Công cụ AI](https://ducpt.com/cong-cu-ai/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Khoá học](https://ducpt.com/khoa-hoc/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [YouTube](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving) · [TikTok](https://www.tiktok.com/@hoangvanduc10199)
 
 ### Đang làm gì
 
