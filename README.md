@@ -33,14 +33,17 @@ I build AI agent systems that run a one-person business: content, video, web ops
 
 | | | |
 |---|---|---|
-| [**ducpt-skills**](https://github.com/ducdg88/ducpt-skills) | 11 Agent Skill mã nguồn mở cho doanh nghiệp một người: bản ghi tiếng Việt, sửa lỗi giọng nói, kiểm nguyên bản nội dung, Pinterest, YouTube. | ![Stars](https://img.shields.io/github/stars/ducdg88/ducpt-skills?style=flat) |
+| [**ducpt-skills**](https://github.com/ducdg88/ducpt-skills) | 13 Agent Skill mã nguồn mở cho doanh nghiệp một người: bản ghi tiếng Việt, sửa lỗi giọng nói, kiểm nguyên bản nội dung, theo dõi chi phí token, Pinterest, YouTube. | ![Stars](https://img.shields.io/github/stars/ducdg88/ducpt-skills?style=flat) |
 | [**verba-studio**](https://github.com/ducdg88/verba-studio) | Phòng thu AI cho streamer và creator, bản Windows. | ![Stars](https://img.shields.io/github/stars/ducdg88/verba-studio?style=flat) |
 | [**VietnameseVoiceMic**](https://github.com/ducdg88/VietnameseVoiceMic) | Gõ tiếng Việt bằng giọng nói vào mọi ô nhập. | ![Stars](https://img.shields.io/github/stars/ducdg88/VietnameseVoiceMic?style=flat) |
+| [**voinoi**](https://github.com/ducdg88/voinoi) | VoiNoi: bản đang phát triển, thêm đọc to tài liệu và trò chuyện bằng giọng nói. | ![Stars](https://img.shields.io/github/stars/ducdg88/voinoi?style=flat) |
 | [**WorkDeck**](https://github.com/ducdg88/WorkDeck) | Gom mọi công cụ AI về một màn hình (Electron). | ![Stars](https://img.shields.io/github/stars/ducdg88/WorkDeck?style=flat) |
 | [**pro-video-downloader**](https://github.com/ducdg88/pro-video-downloader) | Tải video từ YouTube, TikTok, Facebook và 1000+ nền tảng. | ![Stars](https://img.shields.io/github/stars/ducdg88/pro-video-downloader?style=flat) |
 | [**dg-image-tools**](https://github.com/ducdg88/dg-image-tools-releases) | Xử lý ảnh hàng loạt, cập nhật tự động. | ![Stars](https://img.shields.io/github/stars/ducdg88/dg-image-tools-releases?style=flat) |
 | [**file-manager-pro-user**](https://github.com/ducdg88/file-manager-pro-user) | Lọc, đổi tên hàng loạt, dọn file trùng trên Windows. | ![Stars](https://img.shields.io/github/stars/ducdg88/file-manager-pro-user?style=flat) |
 | [**wp-ad-extension**](https://github.com/ducdg88/wp-ad-extension) | Tiện ích Chrome tự chèn quảng cáo vào bài WordPress. | ![Stars](https://img.shields.io/github/stars/ducdg88/wp-ad-extension?style=flat) |
+| [**IdeaNote**](https://github.com/ducdg88/IdeaNote) | Ghi chú nhanh bằng chữ, ảnh, giọng nói trên Windows, dữ liệu không rời máy. | ![Stars](https://img.shields.io/github/stars/ducdg88/IdeaNote?style=flat) |
+| [**bot-tai-chinh**](https://github.com/ducdg88/bot-tai-chinh) | Bot Telegram theo dõi thu chi cá nhân và doanh nghiệp nhỏ. | ![Stars](https://img.shields.io/github/stars/ducdg88/bot-tai-chinh?style=flat) |
 | [**farm-assistant-dg**](https://github.com/ducdg88/farm-assistant-dg) | PWA trợ lý farm cho game mobile. | ![Stars](https://img.shields.io/github/stars/ducdg88/farm-assistant-dg?style=flat) |
 
 ### Công nghệ
