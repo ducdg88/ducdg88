@@ -33,7 +33,7 @@ I build AI agent systems that run a one-person business: content, video, web ops
 
 | | | |
 |---|---|---|
-| [**ducpt-skills**](https://github.com/ducdg88/ducpt-skills) | 13 Agent Skill mã nguồn mở cho doanh nghiệp một người: bản ghi tiếng Việt, sửa lỗi giọng nói, kiểm nguyên bản nội dung, theo dõi chi phí token, Pinterest, YouTube. | ![Stars](https://img.shields.io/github/stars/ducdg88/ducpt-skills?style=flat) |
+| [**ducpt-skills**](https://github.com/ducdg88/ducpt-skills) | 14 Agent Skill mã nguồn mở cho doanh nghiệp một người: bản ghi tiếng Việt, sửa lỗi giọng nói, kiểm nguyên bản nội dung, theo dõi chi phí token, Pinterest, YouTube, kiểm SEO repo GitHub. | ![Stars](https://img.shields.io/github/stars/ducdg88/ducpt-skills?style=flat) |
 | [**verba-studio**](https://github.com/ducdg88/verba-studio) | Phòng thu AI cho streamer và creator, bản Windows. | ![Stars](https://img.shields.io/github/stars/ducdg88/verba-studio?style=flat) |
 | [**VietnameseVoiceMic**](https://github.com/ducdg88/VietnameseVoiceMic) | Gõ tiếng Việt bằng giọng nói vào mọi ô nhập. | ![Stars](https://img.shields.io/github/stars/ducdg88/VietnameseVoiceMic?style=flat) |
 | [**voinoi**](https://github.com/ducdg88/voinoi) | VoiNoi: bản đang phát triển, thêm đọc to tài liệu và trò chuyện bằng giọng nói. | ![Stars](https://img.shields.io/github/stars/ducdg88/voinoi?style=flat) |
