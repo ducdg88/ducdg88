@@ -19,9 +19,6 @@ I build AI agent systems that run a one-person business: content, video, web ops
 |---|---|
 | [**ducpt.com**](https://ducpt.com/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Công cụ AI, automation và sản phẩm số thực chiến. [Công cụ](https://ducpt.com/cong-cu-ai/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Khoá học](https://ducpt.com/khoa-hoc/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Dịch vụ](https://ducpt.com/dich-vu/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Bài viết](https://ducpt.com/bai-viet/?utm_source=github&utm_medium=profile&utm_campaign=profile) |
 | [**Brain Bot**](https://ducpt.com/brain-bot/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Bộ não bài học có trích nguồn. |
-| [**newsglobail.com**](https://newsglobail.com) | Tin tức tổng hợp. |
-| [**tecatool.com**](https://tecatool.com) | Công cụ và thủ thuật công nghệ. |
-| [**navyago.com**](https://navyago.com) | Trang nội dung Navy Ago. |
 
 ### Sản phẩm
 
