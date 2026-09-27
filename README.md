@@ -5,7 +5,7 @@
 Mình xây hệ vận hành AI cho doanh nghiệp một người: agent tự làm nội dung, video và website, Founder chỉ duyệt.
 I build AI agent systems that run a one-person business: content, video, web ops and reporting on autopilot.
 
-[ducpt.com](https://ducpt.com) · [Công cụ AI](https://ducpt.com/cong-cu-ai/) · [Khoá học](https://ducpt.com/khoa-hoc/) · [YouTube](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving)
+[ducpt.com](https://ducpt.com/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Công cụ AI](https://ducpt.com/cong-cu-ai/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Khoá học](https://ducpt.com/khoa-hoc/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [YouTube](https://www.youtube.com/@ducdg2) · [Facebook](https://www.facebook.com/ducserving)
 
 ### Đang làm gì
 
@@ -17,8 +17,8 @@ I build AI agent systems that run a one-person business: content, video, web ops
 
 | | |
 |---|---|
-| [**ducpt.com**](https://ducpt.com) | Công cụ AI, automation và sản phẩm số thực chiến. [Công cụ](https://ducpt.com/cong-cu-ai/) · [Khoá học](https://ducpt.com/khoa-hoc/) · [Dịch vụ](https://ducpt.com/dich-vu/) · [Bài viết](https://ducpt.com/bai-viet/) |
-| [**Brain Bot**](https://ducpt.com/brain-bot/) | Bộ não bài học có trích nguồn. |
+| [**ducpt.com**](https://ducpt.com/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Công cụ AI, automation và sản phẩm số thực chiến. [Công cụ](https://ducpt.com/cong-cu-ai/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Khoá học](https://ducpt.com/khoa-hoc/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Dịch vụ](https://ducpt.com/dich-vu/?utm_source=github&utm_medium=profile&utm_campaign=profile) · [Bài viết](https://ducpt.com/bai-viet/?utm_source=github&utm_medium=profile&utm_campaign=profile) |
+| [**Brain Bot**](https://ducpt.com/brain-bot/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Bộ não bài học có trích nguồn. |
 | [**newsglobail.com**](https://newsglobail.com) | Tin tức tổng hợp. |
 | [**tecatool.com**](https://tecatool.com) | Công cụ và thủ thuật công nghệ. |
 | [**navyago.com**](https://navyago.com) | Trang nội dung Navy Ago. |
@@ -27,15 +27,16 @@ I build AI agent systems that run a one-person business: content, video, web ops
 
 | | |
 |---|---|
-| [**Verba Studio**](https://ducpt.com/cong-cu-ai/verba-studio/) | Livestream, quay màn hình và bóc lời bằng AI. |
-| [**DG PremoDesk**](https://ducpt.com/cong-cu-ai/dg-premodesk/) | Điều khiển máy tính bằng điện thoại. |
-| [**Pinterest Autopost**](https://ducpt.com/cong-cu-ai/pinterest-autopost/) | Tự đăng Pinterest, kéo traffic về website. |
-| [**File Manager Pro**](https://ducpt.com/cong-cu-ai/file-manager-pro/) | Dọn dẹp, sắp xếp file trên Windows. |
+| [**Verba Studio**](https://ducpt.com/cong-cu-ai/verba-studio/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Livestream, quay màn hình và bóc lời bằng AI. |
+| [**DG PremoDesk**](https://ducpt.com/cong-cu-ai/dg-premodesk/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Điều khiển máy tính bằng điện thoại. |
+| [**Pinterest Autopost**](https://ducpt.com/cong-cu-ai/pinterest-autopost/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Tự đăng Pinterest, kéo traffic về website. |
+| [**File Manager Pro**](https://ducpt.com/cong-cu-ai/file-manager-pro/?utm_source=github&utm_medium=profile&utm_campaign=profile) | Dọn dẹp, sắp xếp file trên Windows. |
 
 ### Dự án mở
 
 | | | |
 |---|---|---|
+| [**ducpt-skills**](https://github.com/ducdg88/ducpt-skills) | 11 Agent Skill mã nguồn mở cho doanh nghiệp một người: bản ghi tiếng Việt, sửa lỗi giọng nói, kiểm nguyên bản nội dung, Pinterest, YouTube. | ![Stars](https://img.shields.io/github/stars/ducdg88/ducpt-skills?style=flat) |
 | [**verba-studio**](https://github.com/ducdg88/verba-studio) | Phòng thu AI cho streamer và creator, bản Windows. | ![Stars](https://img.shields.io/github/stars/ducdg88/verba-studio?style=flat) |
 | [**VietnameseVoiceMic**](https://github.com/ducdg88/VietnameseVoiceMic) | Gõ tiếng Việt bằng giọng nói vào mọi ô nhập. | ![Stars](https://img.shields.io/github/stars/ducdg88/VietnameseVoiceMic?style=flat) |
 | [**WorkDeck**](https://github.com/ducdg88/WorkDeck) | Gom mọi công cụ AI về một màn hình (Electron). | ![Stars](https://img.shields.io/github/stars/ducdg88/WorkDeck?style=flat) |
